@@ -1,6 +1,6 @@
-# Frontend Mentor - Single price grid component solution
+# Frontend Mentor - Four card feature section solution
 
-This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).
+This is a solution to the [Four Card Feature Section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
 ## Table of contents
 
@@ -20,7 +20,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
-- See a hover state on desktop for the Sign Up call-to-action
 
 ### Screenshot
 
@@ -29,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <a href="https://github.com/HanyaAdel/Single-price-grid-component/" target="_new"> Github repository</a>
-- Live Site URL: <a href="https://hanyaadel.github.io/Single-price-grid-component/" target="_new"> Demo</a>
+- Solution URL: <a href="https://github.com/HanyaAdel/Four-card-feature-section" target="_new"> Github repository</a>
+- Live Site URL: <a href="https://hanyaadel.github.io/Four-card-feature-section/" target="_new"> Demo</a>
 
 ## My process
 
