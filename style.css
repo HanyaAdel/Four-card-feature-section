@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+
+}
+body{
+    background-color: hsl(0, 0%, 97%);
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    min-width: 90%;
+    padding: 5em 5em;
+    margin: auto;
+}
+.top{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    align-content: center;
+ 
+}
+.top > p{
+    margin: 1rem auto;
+    text-align: center;
+    max-width: 70%;
+    
+}
+.title1{
+    font-size: 30px;
+    font-weight: 200;
+    
+}
+.title2{
+    font-size: 30px;
+    font-weight: 600;
+}
+.foursection{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.middle{
+    width: 33.333%;
+    
+    margin: 1rem;
+}
+#team, #karma{
+    background-color: white;
+    padding: 2rem;
+    border-radius: 0.4rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);    
+}
+#super, #calc{
+    align-content: center;
+    margin: 1rem;
+    width: 33.333%;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 0.4rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#super{
+    border-top: 3px solid hsl(180, 62%, 55%);
+
+}
+#karma{
+    border-top:3px solid hsl(34, 97%, 64%);
+
+}
+
+#team{
+    align-content: center;
+    margin-bottom: 1em;
+    border-top:3px solid hsl(0, 78%, 62%);
+    
+}
+#calc{
+    border-top: 3px solid hsl(212, 86%, 64%);
+  
+}
+h1{
+    font-size: 20px;
+    padding-bottom: 1rem;
+}
+.imgs{
+    display: flex;
+    justify-content: right;
+    margin-top: 2em;
+}
+@media (max-width:400px) {
+    .foursection{
+        flex-direction: column;
+    }
+    #super, #calc, .middle{
+        width: 100%;
+    }
+    
+}
