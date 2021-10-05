@@ -1,4 +1,4 @@
-# Frontend Mentor - Single price grid component solution
+# Frontend Mentor - Four Card Feature Section solution
 
 This is a solution to the [Four Card Feature Section on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: <a href="https://github.com/HanyaAdel/Single-price-grid-component/" target="_new"> Github repository</a>
-- Live Site URL: <a href="https://hanyaadel.github.io/Single-price-grid-component/" target="_new"> Demo</a>
+- Solution URL: <a href="https://github.com/HanyaAdel/Four-card-feature-section" target="_new"> Github repository</a>
+- Live Site URL: <a href=" https://hanyaadel.github.io/Four-card-feature-section/" target="_new"> Demo</a>
 
 ## My process
 
